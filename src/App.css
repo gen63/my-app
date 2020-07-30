@@ -45,7 +45,6 @@
 }
 .each_coat li{
     list-style: none;
-    vertical-align: center;
 }
 .each_coat ul{
     padding-left: 0px;
@@ -65,7 +64,6 @@
     width: 95%;
 }
 .taiki_div li {
-    width: 3.5em;
-    margin-left: 10px;
-    margin-right: 5px;
+    width: 4em;
+    text-align: left;
 }
